@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jhonbriveram
-- 👀 I’m interested in web develpment. 
-- 🌱 I’m currently learning Javascript whit Nodejs. 
-- 📫 How to reach me jhonbriveram@gmail.com
+👋 Hello, I'm Jhon Rivera
+👀 I am interested in web development.
+🌱 I am currently working with C# ASP.NET, Javascript.
+📫jhonbriveram@gmail.com
 
 <!---
 jhonbriveram/jhonbriveram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
